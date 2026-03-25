@@ -84,6 +84,7 @@ class AhmadHassan:
 
 
 ## 🚀 Featured Projects
+---
 
 <div align="center">
 
