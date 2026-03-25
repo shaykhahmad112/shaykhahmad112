@@ -15,8 +15,6 @@
 
 </div>
 
----
-
 ## 🧠 About Me
 
 ```python
@@ -24,7 +22,7 @@ class AhmadHassan:
     name       = "Ahmad Hassan"
     role       = "AI Engineer & Automation Architect"
     location   = "Pakistan 🇵🇰"
-    experience = "2+ Years of Freelancing"
+    experience = "3+ Years of Freelancing"
 
     focus = [
         "🤖 Building LLM-Powered Applications & AI Chatbots",
@@ -39,8 +37,6 @@ class AhmadHassan:
 ```
 
 > *"I don't just write code — I engineer intelligence. From chatbots that understand context to workflows that run themselves, I build systems that work while you sleep."*
-
----
 
 ## 🛠️ Tech Stack & Skills
 
@@ -73,8 +69,6 @@ class AhmadHassan:
 
 </div>
 
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -88,7 +82,6 @@ class AhmadHassan:
 
 </div>
 
----
 
 ## 🚀 Featured Projects
 
@@ -103,8 +96,6 @@ class AhmadHassan:
 
 </div>
 
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -112,8 +103,6 @@ class AhmadHassan:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaykhahmad112&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ff6b6b&area=true&area_color=00d9ff" width="100%"/>
 
 </div>
-
----
 
 ## 🏆 GitHub Trophies
 
@@ -123,7 +112,6 @@ class AhmadHassan:
 
 </div>
 
----
 
 ## 💼 What I Offer as a Freelancer
 
@@ -138,7 +126,6 @@ class AhmadHassan:
 
 </div>
 
----
 
 ## 📬 Let's Connect & Build Something Great
 
